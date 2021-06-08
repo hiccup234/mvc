@@ -142,7 +142,7 @@
             <groupId>org.apache.activemq</groupId>
             <artifactId>activemq-client</artifactId>
             <!--5.15.2编译的JDK版本为1.8，太高了-->
-            <version>5.14.5</version>
+            <version>5.15.9</version>
         </dependency>
         <dependency>
             <groupId>org.apache.activemq</groupId>
