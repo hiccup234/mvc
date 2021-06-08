@@ -12,7 +12,7 @@
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <org.apache.mina.version>2.0.7</org.apache.mina.version>
-        <spring.version>4.3.8.RELEASE</spring.version>
+        <spring.version>4.3.21.RELEASE</spring.version>
     </properties>
 
     <dependencies>
